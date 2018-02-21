@@ -1,0 +1,2 @@
+# codeninjassamples
+Files fore CodeNinjas
